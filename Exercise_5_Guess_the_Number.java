@@ -13,7 +13,7 @@ import java.util.Scanner;
 на старой библиотеке Swing - она не очень красивая, но попробовать можно (в отдельном бранче).
 */
 
-public class Excercise_5_Guess_the_Number {
+public class Exercise_5_Guess_the_Number {
     public static void main (String[] args) {
         final int maxNumber = 100; // Максимальное число для диапазона от 0 до maxNumber
         final int randomNumber = randomNumber(maxNumber);

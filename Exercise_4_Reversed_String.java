@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Excercise_4_Reversed_String {
+public class Exercise_4_Reversed_String {
     public static void main (String[] args) {
         System.out.println("Задача №4: Напишите программу, которая принимает на вход строку S, и выводит ее “задом наперед”");
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Excercise_3_Every_Second_Symbol {
+public class Exercise_3_Every_Second_Symbol {
     public static void main (String[] args) {
         System.out.println("Задача №3: Напишите программу, которая принимает на вход строку S и выводит каждый 2-й ее символ");
 
